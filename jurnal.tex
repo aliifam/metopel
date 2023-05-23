@@ -1,0 +1,66 @@
+\documentclass[10pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{indentfirst}
+\usepackage{titling}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+
+
+
+\usepackage[backend=biber, bibencoding=utf8, style=authoryear, sorting=ynt, natbib=true]{biblatex}
+\addbibresource{references/articles.bib}
+
+\usepackage{hyperref}
+
+
+
+\begin{document}
+
+\title{\textbf{Docker for Accelerating Development and Deployment in Software Development Life Cycle}}
+\author{Alif Arief Maulana}
+
+\maketitle
+
+\begin{abstract}
+Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines. Containers are created from images that specify their precise contents. Images are often created by combining and modifying standard images downloaded from public repositories. Docker provides tooling and a platform to manage the lifecycle of your containers.
+\end{abstract}
+
+\input{sections/introduction.tex}
+
+\section{Introduction}
+
+\section{Conclusion}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{./resources/images/horizontal-logo-monochromatic-white.png}
+    \caption{Docker Logo}
+    \label{fig:docker-logo}
+\end{figure}
+
+\clearpage
+
+In this article, we have looked at what containers are and how they are used in software development. We have also looked at the different tools and technologies that are used to create and manage containers, including Docker, Docker Compose, Docker Swarm, and Docker Machine. Finally, we have looked at some of the key features of Docker Swarm, including service discovery, load balancing, scaling, rolling updates, and security.
+
+\begin{table}[h]
+    \begin{tabular}{|l|l|}
+    \hline
+    \textbf{Virtual Machines}             & \textbf{Containers}                            \\ \hline
+    Heavyweight.                          & Lightweight.                                   \\
+    Limited performance.                  & Native performance.                            \\
+    Each VM runs in its own OS.           & All containers share the host OS.              \\
+    Startup time in minutes.              & Startup time in milliseconds.                  \\
+    Allocates required memory.            & Requires less memory space.                    \\
+    Fully isolated and hence more secure. & Process-level isolation, possibly less secure. \\ \hline
+    \end{tabular}
+\end{table}
+
+
+
+
+\printbibliography
+
+\end{document}

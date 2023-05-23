@@ -1,0 +1,15 @@
+\section{Introduction}
+
+Docker \ref{fig:docker-logo} is a platform for building, packaging, and deploying containerized applications. It consists of several components that work together to provide a complete containerization solution. Here are the main components of Docker:
+\begin{enumerate}
+    \item Docker Image: A Docker image is a read-only template that defines the environment for a container. It contains the application and all its dependencies, as well as the instructions for creating the container when it is run for the first time. Docker images are created using a Dockerfile, which is a text file that contains a list of instructions for building the image.
+    \item Docker Container: A Docker container is a runtime instance of a Docker image. It is a lightweight and portable encapsulation of an application and its dependencies that allows it to run virtually anywhere. Docker containers are created from Docker images and run the actual application. Each container is isolated from the host environment and other containers, and has its own set of resources allocated to it \citep{9514041}.
+    \item Docker Engine: The core component of Docker is the Docker Engine, which is a lightweight runtime that allows you to run Docker containers. It includes the Docker daemon, which is responsible for managing containers, images, networks, and volumes, as well as the Docker CLI, which provides a command-line interface for interacting with Docker.
+    \item Docker Hub: Docker Hub is a public registry of Docker images, where developers can find, store, and share Docker images. It provides a convenient way to discover and download pre-built Docker images for popular software applications, as well as a platform for hosting and distributing custom Docker images \citet{9236837}.
+    \item Docker Compose: Docker Compose is a tool for defining and running multi-container Docker applications. It allows developers to define the different services that make up an application, their configuration settings, and how they are connected and deployed.
+    \item Docker Swarm: Docker Swarm is a native clustering and orchestration tool for Docker containers. It enables developers to deploy and manage a cluster of Docker nodes as a single virtual system, providing a highly available and scalable platform for running distributed applications.
+    \item Docker Registry: Docker Registry is a private registry that allows organizations to store and share Docker images within their own environment. It provides a secure and scalable way to manage custom Docker images and distribute them across different teams and environments.
+    \item Docker CLI: The Docker CLI is a command-line interface that allows developers to interact with the Docker Engine and manage Docker containers, images, networks, and volumes. It provides a simple and powerful way to build, deploy, and manage containerized applications.
+\end{enumerate}
+
+Overall, Docker is a powerful platform for building and deploying containerized applications, providing a complete set of tools and components for managing the entire container lifecycle.

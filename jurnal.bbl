@@ -1,0 +1,97 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{9236837}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18f251b11dbce5c50da3564aeaf7e22c}{%
+           family={Wenhao},
+           familyi={W\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ded7f29f07a8d61a63016c8708c3efdf}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{701afec801d0dec2782099cfb46dcbd1}
+      \strng{fullhash}{701afec801d0dec2782099cfb46dcbd1}
+      \strng{bibnamehash}{701afec801d0dec2782099cfb46dcbd1}
+      \strng{authorbibnamehash}{701afec801d0dec2782099cfb46dcbd1}
+      \strng{authornamehash}{701afec801d0dec2782099cfb46dcbd1}
+      \strng{authorfullhash}{701afec801d0dec2782099cfb46dcbd1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE 3rd International Conference on Information Systems and Computer Aided Education (ICISCAE)}
+      \field{title}{Vulnerability Analysis and Security Research of Docker Container}
+      \field{year}{2020}
+      \field{pages}{354\bibrangedash 357}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICISCAE51034.2020.9236837
+      \endverb
+    \endentry
+    \entry{9514041}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=77911199e4c402bc531d93d514db3664}{%
+           family={Abhishek},
+           familyi={A\bibinitperiod},
+           given={Manish\bibnamedelima Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=099963e5e99e8dae735dfb6c7008a815}{%
+           family={Rajeswara\bibnamedelima Rao},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \strng{fullhash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \strng{bibnamehash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \strng{authorbibnamehash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \strng{authornamehash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \strng{authorfullhash}{ba2347c0da3da5ee426d2e64bdce439a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 Fifth World Conference on Smart Trends in Systems Security and Sustainability (WorldS4)}
+      \field{title}{Framework to Secure Docker Containers}
+      \field{year}{2021}
+      \field{pages}{152\bibrangedash 156}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/WorldS451998.2021.9514041
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
