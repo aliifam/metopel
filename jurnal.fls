@@ -642,6 +642,10 @@ INPUT sections/introduction.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./sections/core.tex
+INPUT sections/core.tex
+INPUT ./sections/core.tex
+INPUT sections/core.tex
 INPUT ./resources/images/horizontal-logo-monochromatic-white.png
 INPUT ./resources/images/horizontal-logo-monochromatic-white.png
 INPUT ./resources/images/horizontal-logo-monochromatic-white.png
