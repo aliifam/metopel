@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  14 JUN 2023 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  14 JUN 2023 15:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -499,22 +499,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./sections/1-introduction.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/2-background.tex
-<./resources/images/horizontal-logo-monochromatic-white.png, id=30, 1206.5075pt x 310.15875pt>
+<./resources/images/horizontal-logo-monochromatic-white.png, id=32, 1206.5075pt x 310.15875pt>
 File: ./resources/images/horizontal-logo-monochromatic-white.png Graphic file (type png)
 <use ./resources/images/horizontal-logo-monochromatic-white.png>
-Package pdftex.def Info: ./resources/images/horizontal-logo-monochromatic-white.png  used on input line 5.
+Package pdftex.def Info: ./resources/images/horizontal-logo-monochromatic-white.png  used on input line 9.
 (pdftex.def)             Requested size: 241.49895pt x 62.0827pt.
- [2 <./resources/images/horizontal-logo-monochromatic-white.png>]
+ [2] [3 <./resources/images/horizontal-logo-monochromatic-white.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 19.
 
-Overfull \hbox (31.05612pt too wide) in paragraph at lines 15--25
+Overfull \hbox (31.05612pt too wide) in paragraph at lines 19--29
 [][] 
  []
 
-) (./sections/3-methodology.tex) (./sections/4-results.tex) (./sections/5-conclussion.tex) [3
+) (./sections/3-methodology.tex) (./sections/4-results.tex) (./sections/5-conclussion.tex) [4
 
 ] (./jurnal.aux)
 Package rerunfilecheck Info: File `jurnal.out' has not changed.
@@ -524,18 +524,18 @@ Package logreq Info: Writing requests to 'jurnal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17063 strings out of 479662
- 306075 string characters out of 5883895
- 998583 words of memory out of 5000000
- 34964 multiletter control sequences out of 15000+600000
+ 17081 strings out of 479662
+ 306566 string characters out of 5883895
+ 998747 words of memory out of 5000000
+ 34979 multiletter control sequences out of 15000+600000
  474936 words of font info for 47 fonts, out of 8000000 for 9000
  309 hyphenation exceptions out of 8191
  60i,8n,68p,784b,1515s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on jurnal.pdf (3 pages, 147331 bytes).
+Output written on jurnal.pdf (4 pages, 156631 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
  22 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2347,8 +2347,14 @@
   <bcf:section number="0">
     <bcf:citekey order="1">9514041</bcf:citekey>
     <bcf:citekey order="2">9236837</bcf:citekey>
-    <bcf:citekey order="3">9514041</bcf:citekey>
-    <bcf:citekey order="4">9236837</bcf:citekey>
+    <bcf:citekey order="3">merkel2014docker</bcf:citekey>
+    <bcf:citekey order="3">boettiger2015introduction</bcf:citekey>
+    <bcf:citekey order="4">merkel2014docker</bcf:citekey>
+    <bcf:citekey order="5">boettiger2015introduction</bcf:citekey>
+    <bcf:citekey order="6">9514041</bcf:citekey>
+    <bcf:citekey order="7">9236837</bcf:citekey>
+    <bcf:citekey order="8">merkel2014docker</bcf:citekey>
+    <bcf:citekey order="9">boettiger2015introduction</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

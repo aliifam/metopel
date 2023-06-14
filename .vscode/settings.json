@@ -1,1 +1,5 @@
-{}
+{
+  "editor.wordWrap": "on",
+  // format on save latex/bib files
+  "editor.formatOnSave": true
+}

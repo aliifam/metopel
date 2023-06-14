@@ -19,6 +19,76 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global}
+    \entry{merkel2014docker}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10d7200e2bfcc5a34efbee3b80c90f13}{%
+           family={Merkel},
+           familyi={M\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \strng{fullhash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \strng{bibnamehash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \strng{authorbibnamehash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \strng{authornamehash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \strng{authorfullhash}{10d7200e2bfcc5a34efbee3b80c90f13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linux journal}
+      \field{number}{239}
+      \field{title}{Docker: lightweight linux containers for consistent development and deployment}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.linuxjournal.com/content/docker
+      \endverb
+      \verb{url}
+      \verb https://www.linuxjournal.com/content/docker
+      \endverb
+    \endentry
+    \entry{boettiger2015introduction}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b23d21a39d596cb65c7411216d994660}{%
+           family={Boettiger},
+           familyi={B\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{fullhash}{b23d21a39d596cb65c7411216d994660}
+      \strng{bibnamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authorbibnamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authornamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authorfullhash}{b23d21a39d596cb65c7411216d994660}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM SIGOPS Operating Systems Review}
+      \field{number}{1}
+      \field{title}{An introduction to docker for reproducible research}
+      \field{volume}{49}
+      \field{year}{2015}
+      \field{pages}{71\bibrangedash 79}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/2723872.2723882
+      \endverb
+    \endentry
     \entry{9236837}{inproceedings}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=18f251b11dbce5c50da3564aeaf7e22c}{%
