@@ -2351,10 +2351,28 @@
     <bcf:citekey order="3">boettiger2015introduction</bcf:citekey>
     <bcf:citekey order="4">merkel2014docker</bcf:citekey>
     <bcf:citekey order="5">boettiger2015introduction</bcf:citekey>
-    <bcf:citekey order="6">9514041</bcf:citekey>
-    <bcf:citekey order="7">9236837</bcf:citekey>
-    <bcf:citekey order="8">merkel2014docker</bcf:citekey>
-    <bcf:citekey order="9">boettiger2015introduction</bcf:citekey>
+    <bcf:citekey order="6">raffa2018docker</bcf:citekey>
+    <bcf:citekey order="6">pahl2015containers</bcf:citekey>
+    <bcf:citekey order="7">neamtiu2013towards</bcf:citekey>
+    <bcf:citekey order="8">fink2018docker</bcf:citekey>
+    <bcf:citekey order="8">franken2016using</bcf:citekey>
+    <bcf:citekey order="9">boettiger2017package</bcf:citekey>
+    <bcf:citekey order="9">tanenbaum2019introduction</bcf:citekey>
+    <bcf:citekey order="10">bisht2016containerization</bcf:citekey>
+    <bcf:citekey order="10">arora2018performance</bcf:citekey>
+    <bcf:citekey order="11">9514041</bcf:citekey>
+    <bcf:citekey order="12">9236837</bcf:citekey>
+    <bcf:citekey order="13">merkel2014docker</bcf:citekey>
+    <bcf:citekey order="14">boettiger2015introduction</bcf:citekey>
+    <bcf:citekey order="15">raffa2018docker</bcf:citekey>
+    <bcf:citekey order="16">pahl2015containers</bcf:citekey>
+    <bcf:citekey order="17">neamtiu2013towards</bcf:citekey>
+    <bcf:citekey order="18">fink2018docker</bcf:citekey>
+    <bcf:citekey order="19">franken2016using</bcf:citekey>
+    <bcf:citekey order="20">boettiger2017package</bcf:citekey>
+    <bcf:citekey order="21">tanenbaum2019introduction</bcf:citekey>
+    <bcf:citekey order="22">bisht2016containerization</bcf:citekey>
+    <bcf:citekey order="23">arora2018performance</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

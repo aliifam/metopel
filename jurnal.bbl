@@ -19,6 +19,57 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global}
+    \entry{neamtiu2013towards}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=be86789e440002722a477c1065d11890}{%
+           family={Neamtiu},
+           familyi={N\bibinitperiod},
+           given={Iulian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ea5f0f0919170045ff242829161a200}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rohan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c2342490499da737c001067d18a82c}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={Vibha},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=443f7d80eecdc8234449131255636829}{%
+           family={Potharaju},
+           familyi={P\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f1c30aad18f1198f2d7df6162d14559a}
+      \strng{fullhash}{3bc32941d1b0c5efa7d7259766678706}
+      \strng{bibnamehash}{f1c30aad18f1198f2d7df6162d14559a}
+      \strng{authorbibnamehash}{f1c30aad18f1198f2d7df6162d14559a}
+      \strng{authornamehash}{f1c30aad18f1198f2d7df6162d14559a}
+      \strng{authorfullhash}{3bc32941d1b0c5efa7d7259766678706}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining}
+      \field{title}{Towards understanding docker containers}
+      \field{year}{2013}
+      \field{pages}{1224\bibrangedash 1232}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/2492517.2492535
+      \endverb
+    \endentry
     \entry{merkel2014docker}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=10d7200e2bfcc5a34efbee3b80c90f13}{%
@@ -72,6 +123,7 @@
       \strng{authorbibnamehash}{b23d21a39d596cb65c7411216d994660}
       \strng{authornamehash}{b23d21a39d596cb65c7411216d994660}
       \strng{authorfullhash}{b23d21a39d596cb65c7411216d994660}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -87,6 +139,329 @@
       \range{pages}{9}
       \verb{doi}
       \verb 10.1145/2723872.2723882
+      \endverb
+    \endentry
+    \entry{pahl2015containers}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1b80c1bcc3a83d4cacce8eb1407af343}{%
+           family={Pahl},
+           familyi={P\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62ba9f6691db3c556a003b58a409b6db}{%
+           family={Vaquero},
+           familyi={V\bibinitperiod},
+           given={Luis\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \strng{fullhash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \strng{bibnamehash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \strng{authorbibnamehash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \strng{authornamehash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \strng{authorfullhash}{f6ebcf2a61e544005141acac9ccf5fd8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Containers and clusters for edge cloud architectures--a technology review}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{566\bibrangedash 578}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2015.2432662
+      \endverb
+    \endentry
+    \entry{bisht2016containerization}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=25dd3a2ad9f8b94df968403e68a8d152}{%
+           family={Bisht},
+           familyi={B\bibinitperiod},
+           given={Prasenjit\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2056c63c1727d811131c012bb31185f}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Sandeep\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Foundation of Computer Science (FCS)}%
+      }
+      \strng{namehash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \strng{fullhash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \strng{bibnamehash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \strng{authorbibnamehash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \strng{authornamehash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \strng{authorfullhash}{ba8bfa65018d62c2ddf2d148679f712c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{number}{5}
+      \field{title}{Containerization of component-based software systems}
+      \field{volume}{136}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.5120/ijca2016910732
+      \endverb
+    \endentry
+    \entry{franken2016using}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=295a8d2347f9299869d646cb2e475d9c}{%
+           family={Franken},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e764f826d364df67562bd5881bac6c5f}{%
+           family={Hofman},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{81af511511e1217c1bd8a9ec7b42551b}
+      \strng{fullhash}{81af511511e1217c1bd8a9ec7b42551b}
+      \strng{bibnamehash}{81af511511e1217c1bd8a9ec7b42551b}
+      \strng{authorbibnamehash}{81af511511e1217c1bd8a9ec7b42551b}
+      \strng{authornamehash}{81af511511e1217c1bd8a9ec7b42551b}
+      \strng{authorfullhash}{81af511511e1217c1bd8a9ec7b42551b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Systems and Software}
+      \field{title}{Using Docker containers to improve reproducibility in software and web engineering research}
+      \field{volume}{121}
+      \field{year}{2016}
+      \field{pages}{195\bibrangedash 207}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jss.2016.07.013
+      \endverb
+    \endentry
+    \entry{boettiger2017package}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b23d21a39d596cb65c7411216d994660}{%
+           family={Boettiger},
+           familyi={B\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{fullhash}{b23d21a39d596cb65c7411216d994660}
+      \strng{bibnamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authorbibnamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authornamehash}{b23d21a39d596cb65c7411216d994660}
+      \strng{authorfullhash}{b23d21a39d596cb65c7411216d994660}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Science \& Engineering}
+      \field{number}{6}
+      \field{title}{Package management with {D}ocker containers: Making reproducible computational research easier}
+      \field{volume}{19}
+      \field{year}{2017}
+      \field{pages}{8\bibrangedash 17}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MCSE.2017.3971291
+      \endverb
+    \endentry
+    \entry{arora2018performance}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=45ecd9b7c707dc0f9709c8c451945798}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Shilpi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a48ea4bb42611e19a8c99cb53317df}{%
+           family={Dhawan},
+           familyi={D\bibinitperiod},
+           given={Parveen},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b9e5e950591d1006b90523146ee30ba7}
+      \strng{fullhash}{b9e5e950591d1006b90523146ee30ba7}
+      \strng{bibnamehash}{b9e5e950591d1006b90523146ee30ba7}
+      \strng{authorbibnamehash}{b9e5e950591d1006b90523146ee30ba7}
+      \strng{authornamehash}{b9e5e950591d1006b90523146ee30ba7}
+      \strng{authorfullhash}{b9e5e950591d1006b90523146ee30ba7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Supercomputing}
+      \field{number}{7}
+      \field{title}{Performance benchmarking of containerization technology for scalable deployment of cloud applications}
+      \field{volume}{74}
+      \field{year}{2018}
+      \field{pages}{3335\bibrangedash 3362}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/s11227-018-2537-6
+      \endverb
+    \endentry
+    \entry{fink2018docker}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f1810c23ba83f53ab99ca7d49503c6db}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={Günther},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40c8708e27aae1ae7b908aa3e3c93bf4}{%
+           family={Günther},
+           familyi={G\bibinitperiod},
+           given={Finn},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03c742152cbbc9a872ca6fe621df8c79}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ruoran},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9e5a18abb20e7d298979e10c29a0dec}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{6850823bec062460a9be15928dbf594c}
+      \strng{fullhash}{0a335177eacbcce7ffaf1acfe952cc7e}
+      \strng{bibnamehash}{6850823bec062460a9be15928dbf594c}
+      \strng{authorbibnamehash}{6850823bec062460a9be15928dbf594c}
+      \strng{authornamehash}{6850823bec062460a9be15928dbf594c}
+      \strng{authorfullhash}{0a335177eacbcce7ffaf1acfe952cc7e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Epidemiology}
+      \field{number}{5}
+      \field{title}{Docker for reproducible research: An introduction for epidemiologists}
+      \field{volume}{29}
+      \field{year}{2018}
+      \field{pages}{e39\bibrangedash e40}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1097/EDE.0000000000000867
+      \endverb
+    \endentry
+    \entry{raffa2018docker}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=50f66d37edba40da464bdd8cae37cf31}{%
+           family={Raffa},
+           familyi={R\bibinitperiod},
+           given={Giuseppe\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1dc447055a5e64105a2984bf8306851}{%
+           family={Liò},
+           familyi={L\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \strng{fullhash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \strng{bibnamehash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \strng{authorbibnamehash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \strng{authornamehash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \strng{authorfullhash}{59ae1ac86b83bbfe5616c69a84242aad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{23}
+      \field{title}{Docker-based containerization for bioinformatics applications}
+      \field{volume}{34}
+      \field{year}{2018}
+      \field{pages}{4102\bibrangedash 4104}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/bty507
+      \endverb
+    \endentry
+    \entry{tanenbaum2019introduction}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a05e36109ef599d622b3f370aa73a4d9}{%
+           family={Tanenbaum},
+           familyi={T\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Hawaii International Conference on System Sciences}%
+      }
+      \strng{namehash}{a05e36109ef599d622b3f370aa73a4d9}
+      \strng{fullhash}{a05e36109ef599d622b3f370aa73a4d9}
+      \strng{bibnamehash}{a05e36109ef599d622b3f370aa73a4d9}
+      \strng{authorbibnamehash}{a05e36109ef599d622b3f370aa73a4d9}
+      \strng{authornamehash}{a05e36109ef599d622b3f370aa73a4d9}
+      \strng{authorfullhash}{a05e36109ef599d622b3f370aa73a4d9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 52nd Hawaii International Conference on System Sciences}
+      \field{title}{Introduction to Docker for data science}
+      \field{year}{2019}
+      \field{pages}{3441\bibrangedash 3450}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.24251/hicss.2019.414
       \endverb
     \endentry
     \entry{9236837}{inproceedings}{}
