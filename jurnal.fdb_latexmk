@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber jurnal"] 1686727884 "jurnal.bcf" "jurnal.bbl" "jurnal" 1686727885
-  "jurnal.bcf" 1686727488 107154 8f4877be46d13c0b247ba199e08c2a08 "pdflatex"
+["biber jurnal"] 1686728338 "jurnal.bcf" "jurnal.bbl" "jurnal" 1686728341
+  "jurnal.bcf" 1686728341 107154 8f4877be46d13c0b247ba199e08c2a08 "pdflatex"
   "references/articles.bib" 1686727884 3280 652a8a3cb109baa3a5c9a9b9102bf234 ""
   (generated)
   "jurnal.bbl"
   "jurnal.blg"
-["pdflatex"] 1686727487 "/home/aliif/Documents/kuliah/metopel/artikel/jurnal.tex" "jurnal.pdf" "jurnal" 1686727885
+["pdflatex"] 1686728340 "/home/aliif/Documents/kuliah/metopel/artikel/jurnal.tex" "jurnal.pdf" "jurnal" 1686728341
   "/etc/texmf/web2c/texmf.cnf" 1678171452 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/aliif/Documents/kuliah/metopel/artikel/jurnal.tex" 1686727476 1329 1937e601427e261be7524ea2e2ce42fe ""
+  "/home/aliif/Documents/kuliah/metopel/artikel/jurnal.tex" 1686728336 1435 45eecd4476adf58d131fafdf637df373 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -104,14 +104,17 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1678808155 182789 d48fc381a6a616f1913f94e278c94629 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685508635 1532372 d387c4e7ce83eda082112b28d74bae37 ""
-  "jurnal.aux" 1686727488 1609 3ebd52b5ca3c7251e8e2fe87c0823df6 "pdflatex"
-  "jurnal.bbl" 1686727885 3660 879f03e75ec06546a04eac65d0a055bd "biber jurnal"
-  "jurnal.out" 1686727488 196 9fba2432bf8a4f5808e3a3996573f529 "pdflatex"
-  "jurnal.run.xml" 1686727488 2368 a5cce0c2651ff2588e3e146106a901ab "pdflatex"
-  "jurnal.tex" 1686727476 1329 1937e601427e261be7524ea2e2ce42fe ""
+  "jurnal.aux" 1686728341 1615 6e6e1709448241c50c73142bf583c718 "pdflatex"
+  "jurnal.bbl" 1686728338 3660 879f03e75ec06546a04eac65d0a055bd "biber jurnal"
+  "jurnal.out" 1686728341 229 ddb218b5bcffa847ed2c1fdad47f8583 "pdflatex"
+  "jurnal.run.xml" 1686728341 2368 a5cce0c2651ff2588e3e146106a901ab "pdflatex"
+  "jurnal.tex" 1686728336 1435 45eecd4476adf58d131fafdf637df373 ""
   "resources/images/horizontal-logo-monochromatic-white.png" 1678775385 24873 bf2d831615a6d254283a5b4b3a5cbc07 ""
-  "sections/core.tex" 1686727500 1425 1b7d240cb54e4e866478e8f17bc61968 ""
-  "sections/introduction.tex" 1684827683 3126 d394c0ed886c9e9d14137dbfc226a2e1 ""
+  "sections/1-introduction.tex" 1684827683 3126 d394c0ed886c9e9d14137dbfc226a2e1 ""
+  "sections/2-background.tex" 1686728262 1431 9bf48b1cd135b6670bfb9cee2a08095d ""
+  "sections/3-methodology.tex" 1686727996 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "sections/4-results.tex" 1686728008 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "sections/5-conclussion.tex" 1686728018 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "jurnal.aux"
   "jurnal.bcf"

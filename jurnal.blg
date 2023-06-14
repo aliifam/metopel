@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
-[0] Config.pm:310> INFO - Logfile is 'jurnal.blg'
-[60] biber:340> INFO - === Rab Jun 14, 2023, 14:31:24
-[72] Biber.pm:418> INFO - Reading 'jurnal.bcf'
-[137] Biber.pm:972> INFO - Found 2 citekeys in bib section 0
-[148] Biber.pm:4383> INFO - Processing section 0
-[157] Biber.pm:4574> INFO - Looking for bibtex file 'references/articles.bib' for section 0
-[159] bibtex.pm:1713> INFO - LaTeX decoding ...
-[164] bibtex.pm:1518> INFO - Found BibTeX data source 'references/articles.bib'
-[201] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[201] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[201] Biber.pm:4203> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[202] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[204] bbl.pm:654> INFO - Writing 'jurnal.bbl' with encoding 'UTF-8'
-[205] bbl.pm:757> INFO - Output to jurnal.bbl
+[1] Config.pm:310> INFO - Logfile is 'jurnal.blg'
+[66] biber:340> INFO - === Rab Jun 14, 2023, 14:38:58
+[78] Biber.pm:418> INFO - Reading 'jurnal.bcf'
+[134] Biber.pm:972> INFO - Found 2 citekeys in bib section 0
+[145] Biber.pm:4383> INFO - Processing section 0
+[153] Biber.pm:4574> INFO - Looking for bibtex file 'references/articles.bib' for section 0
+[154] bibtex.pm:1713> INFO - LaTeX decoding ...
+[160] bibtex.pm:1518> INFO - Found BibTeX data source 'references/articles.bib'
+[203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[203] Biber.pm:4203> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[203] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[208] bbl.pm:654> INFO - Writing 'jurnal.bbl' with encoding 'UTF-8'
+[210] bbl.pm:757> INFO - Output to jurnal.bbl
